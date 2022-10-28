@@ -1,0 +1,15 @@
+C:\Users\jackson.souza2\source\repos\HalloweenIsHere\HalloweenIsHere\bin\Debug\net6.0\HalloweenIsHere.exe
+C:\Users\jackson.souza2\source\repos\HalloweenIsHere\HalloweenIsHere\bin\Debug\net6.0\HalloweenIsHere.deps.json
+C:\Users\jackson.souza2\source\repos\HalloweenIsHere\HalloweenIsHere\bin\Debug\net6.0\HalloweenIsHere.runtimeconfig.json
+C:\Users\jackson.souza2\source\repos\HalloweenIsHere\HalloweenIsHere\bin\Debug\net6.0\HalloweenIsHere.dll
+C:\Users\jackson.souza2\source\repos\HalloweenIsHere\HalloweenIsHere\bin\Debug\net6.0\HalloweenIsHere.pdb
+C:\Users\jackson.souza2\source\repos\HalloweenIsHere\HalloweenIsHere\obj\Debug\net6.0\HalloweenIsHere.csproj.AssemblyReference.cache
+C:\Users\jackson.souza2\source\repos\HalloweenIsHere\HalloweenIsHere\obj\Debug\net6.0\HalloweenIsHere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackson.souza2\source\repos\HalloweenIsHere\HalloweenIsHere\obj\Debug\net6.0\HalloweenIsHere.AssemblyInfoInputs.cache
+C:\Users\jackson.souza2\source\repos\HalloweenIsHere\HalloweenIsHere\obj\Debug\net6.0\HalloweenIsHere.AssemblyInfo.cs
+C:\Users\jackson.souza2\source\repos\HalloweenIsHere\HalloweenIsHere\obj\Debug\net6.0\HalloweenIsHere.csproj.CoreCompileInputs.cache
+C:\Users\jackson.souza2\source\repos\HalloweenIsHere\HalloweenIsHere\obj\Debug\net6.0\HalloweenIsHere.dll
+C:\Users\jackson.souza2\source\repos\HalloweenIsHere\HalloweenIsHere\obj\Debug\net6.0\refint\HalloweenIsHere.dll
+C:\Users\jackson.souza2\source\repos\HalloweenIsHere\HalloweenIsHere\obj\Debug\net6.0\HalloweenIsHere.pdb
+C:\Users\jackson.souza2\source\repos\HalloweenIsHere\HalloweenIsHere\obj\Debug\net6.0\HalloweenIsHere.genruntimeconfig.cache
+C:\Users\jackson.souza2\source\repos\HalloweenIsHere\HalloweenIsHere\obj\Debug\net6.0\ref\HalloweenIsHere.dll
